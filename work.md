@@ -12,44 +12,44 @@ classes: wide
 ## Research
 
 ### Research Assistant
-University of Maryland, College Park\
-Sep, 2017 – Present\
+University of Maryland, College Park<br>
+Sep, 2017 – Present<br>
 *Advisor: Hernisa Kaccori*
 
 ### Data Science Research Intern
-Adobe Research\
-May, 2018 – Aug, 2018\
+Adobe Research<br>
+May, 2018 – Aug, 2018<br>
 *Mentor: Tak Yeon Lee*
 
 ### Research Assistant
-University of Maryland, College Park\
-Sep, 2015 – Sep, 2017\
+University of Maryland, College Park<br>
+Sep, 2015 – Sep, 2017<br>
 *Advisor: Leah Findlater*
 
 ### Research Intern
-Seoul National University, Suwon, Korea\
-Jan, 2012 – Feb, 2012\
+Seoul National University, Suwon, Korea<br>
+Jan, 2012 – Feb, 2012<br>
 *Advisor: Kyogu Lee*
 
 
 ## Teaching 
 
 ### Graduate Teaching Assistant
-College of Information Studies, University of Maryland, College Park\
-Seminar in Research Methods and Data Analysis (INST808)\
+College of Information Studies, University of Maryland, College Park<br>
+Seminar in Research Methods and Data Analysis (INST808)<br>
 Spring 2020
 
 ### Graduate Teaching Assistant
-College of Information Studies, University of Maryland, College Park\
-Inclusive Design in HCI (INST704)\
+College of Information Studies, University of Maryland, College Park<br>
+Inclusive Design in HCI (INST704)<br>
 Fall 2019
 
 ### Graduate Teaching Assistant
-Dept. of Computer Science, University of Maryland, College Park\
-Object-oriented Programming I, II (CMSC131, CMSC132)\
+Dept. of Computer Science, University of Maryland, College Park<br>
+Object-oriented Programming I, II (CMSC131, CMSC132)<br>
 Spring 2017, Fall 2016, Spring 2015, Fall 2014
 
 ### Graduate Teaching Assistant
-Dept. of Computer Science, KAIST, Daejeon, Korea\
-Data Structure (CS206)\
+Dept. of Computer Science, KAIST, Daejeon, Korea<br>
+Data Structure (CS206)<br>
 Fall 2012
