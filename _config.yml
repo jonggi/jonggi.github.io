@@ -31,7 +31,6 @@ footer:
 
 # Site Settings
 title                    : "Jonggi Hong"
-subtitle                 : "HCI and AI Researcher"
 title_separator          : "|"
 name                     : &name "Jonggi Hong"
 description              : &description "Jonggi Hong's website"
