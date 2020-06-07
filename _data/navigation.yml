@@ -1,0 +1,9 @@
+main:
+  - title: "PROJECTS"
+    url: /projects/
+  - title: "PUBLICATIONS"
+    url: /publications/
+  - title: "AWARDS"
+    url: /awards/
+  - title: "WORK"
+    url: /work/
