@@ -9,8 +9,8 @@ classes: wide
 
 ## Conference Papers
 
-[Crowdsourcing the Perception of Machine Teaching](/papers/CHI2020-CrowdTeaMa.pdf)\
-**Jonggi Hong**, Kyungjun Lee, June Xu, Hernisa Kacorri\
+[Crowdsourcing the Perception of Machine Teaching](/papers/CHI2020-CrowdTeaMa.pdf)<br>
+**Jonggi Hong**, Kyungjun Lee, June Xu, Hernisa Kacorri<br>
 Proc. SIGCHI Conference on Human Factors in Computing Systems (CHI 2020)
 
 [Revisiting Blind Photography in the Context of Teachable Object Recognizers](/papers/ASSETS2019-Revisiting.pdf)\
