@@ -5,10 +5,20 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
+      
+author:
+  name             : "Jonggi Hong"
+  avatar           : "JonggiHong.jpg"
+  bio              : "I am a PhD candidate in Computer Science at University of Maryland, College Park."
+  location         : "College Park, MD, USA"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=55RWNnMAAAAJ&hl=en"
+  email            : "jhong12@umd.edu"
+  instagram        : "koreahjg"
+  twitter          : "jonggi_hong"
+
 # Site Settings
-locale                   : "en-US"
-title                    : "Jonggi Hong"
-title_separator          : "-"
 name                     : &name "Jonggi Hong"
 description              : &description "Jonggi Hong's website"
 url                      : "https://jonggi.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -78,26 +88,7 @@ analytics:
     tracking_id          :
 
 
-locale: "en-US"
-title: "Jonggi Hong"
-title_separator: "|"
-subtitle: "HCI and AI Researcher"
-name: "Jonggi Hong"
-author:
-  name     : "Jonggi Hong"
-  avatar   : "/images/JonggiHong.jpg"
-  bio      : "I am a PhD candidate in Computer Science at University of Maryland, College Park."
-  location : "College Park, MD, USA"
-  links:
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-user-graduate"
-      url: "https://scholar.google.com/citations?user=55RWNnMAAAAJ&hl=en"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jonggi_hong"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/koreahjg/"
+
   
 
 
