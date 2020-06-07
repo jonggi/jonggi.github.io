@@ -13,8 +13,8 @@ classes: wide
 
 ### Research Intern
 Microsoft Research, Redmond, WA, USA<br>
-Sep, 2017 – Present<br>
-*Advisor: Hernisa Kaccori*
+June, 2020 – Sep, 2020<br>
+*Advisor: Daniela Massiceti, Edward Cutrel, Cecily Morrison*
 
 ### Research Assistant
 University of Maryland, College Park, MD, USA<br>
