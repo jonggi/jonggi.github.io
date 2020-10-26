@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ## Exploring the challenge and strategy of identifying automatic speech recognition (ASR) errors
-
+Test
 ![intro_image](/images/dictation_CHI2017.png){:class="img-responsive"}<br>
 While speech input has improved dramatically in the past few years, reviewing and editing the dictated text during non-visual use has been a challenge for people with visual impairments. This project characterizes the challenge of identifying ASR errors in non-visual context.
 
