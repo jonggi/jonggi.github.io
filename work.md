@@ -14,7 +14,7 @@ classes: wide
 ### Research Intern
 Microsoft Research, Redmond, WA, USA<br>
 June, 2020 – Sep, 2020<br>
-*Advisor: Daniela Massiceti, Edward Cutrell, Cecily Morrison*
+*Mentor: Daniela Massiceti, Edward Cutrell, Cecily Morrison*
 
 ### Research Assistant
 University of Maryland, College Park, MD, USA<br>
@@ -24,7 +24,7 @@ Sep, 2017 – Present<br>
 ### Data Science Research Intern
 Adobe Research, CA, USA<br>
 May, 2018 – Aug, 2018<br>
-*Mentor: Tak Yeon Lee*
+*Mentor: Tak Yeon Lee, Eunyee Koh*
 
 ### Research Assistant
 University of Maryland, College Park, MD, USA<br>
