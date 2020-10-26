@@ -20,5 +20,6 @@ While speech input has improved dramatically in the past few years, reviewing an
 
 ## Exploring the challenge and strategy of reducing teachable object recognition (TOR) errors
 
-![intro_image](/images/objectrecognition.png){:class="img-responsive"}<br>
+<!-- ![intro_image](/images/objectrecognition.png){:class="img-responsive"}<br> -->
+<img src='/images/MachineTeachingPerception.png' width=100%><br>
 This project aims to build a teachable object recognizer (TOR) that helps people with visual impairments to identify objects independently using their smartphones. With a TOR, users can personalize the object recognizer by training the models with their own images. This project addresses two issues to develop this system: non-experts' perception of machine teaching, blind users' challenges of taking photos for training an object recognizer.
