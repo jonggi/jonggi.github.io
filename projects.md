@@ -5,9 +5,14 @@ permalink: /projects/
 author_profile: true
 classes: wide
 ---
-I generally work on research related to machine learning, human computer interaction, and accessibility. 
+<!-- 
+My work is at the intersection of machine learning, human computer interaction, and accessibility. 
+I am exploring blind and sighted users' interactions with speech and image recognition systems which are error prone as any automation systems.
 My projects range from exploring the challenges of using a teachable object recognizer for people with and without visual impairments,
 characterizing the interactions to identifying speech recognition errors with synthesized speech, and developing mobile/wearable devices.
+ -->
+ 
+The overarching theme of my research is designing and evaluating accessible interactions with emerging technologies such as wearables and AI-infused applications. The majority of my work has focus on technologies that benefit people with visual impairments such as exploring interactions with wearables for directional feedback or exploring interactions with speech and image recognition systems, which are error prone as any automation systems. To better contextualize my findings and contribute to inclusive interactions that can benefit a larger population, sighted participants are often included in my studies.
 
 ## Teachable Interface for Personalizing an Object Recognizer
 
