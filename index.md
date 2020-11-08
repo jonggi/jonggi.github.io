@@ -11,7 +11,7 @@ classes: wide
 I am a PhD candidate in [Computer Science Dept. at University of Maryland, College Park](http://cs.umd.edu/). 
 My advisor is Professor [Hernisa Kacorri](https://terpconnect.umd.edu/~hernisa/).
 My research interest is about addressing the real-world problems using human-computer interaction and machine learning techniques. 
-I build machine learning application and investigate interactions between a user and the application and using quantitative and qualitative analysis.
+I build machine learning applications and investigate interactions between a user and the application using quantitative and qualitative analysis.
 In my recent projects, I explored the challenges of identifying errors from speech recognizer and 
 conducted user studies to facilitate machine teaching with a teachable object recognizer for non-experts.
 
