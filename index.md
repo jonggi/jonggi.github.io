@@ -8,7 +8,11 @@ classes: wide
 
 ---
 
-I am a PhD candidate in [Computer Science Dept. at University of Maryland, College Park](http://cs.umd.edu/). My research is about addressing the real-world problems using human-computer interaction and machine learning techniques. Specifically, my current projects explores the interactions between machine learning applications (automatic speech recognizer, teachable object recognizer) and people with visual impairments. My advisor is Professor [Hernisa Kacorri](https://terpconnect.umd.edu/~hernisa/) in [iSchool at University of Maryland, College Park](https://ischool.umd.edu/).
+I am a PhD candidate in [Computer Science Dept. at University of Maryland, College Park](http://cs.umd.edu/). 
+My research interest is about addressing the real-world problems using human-computer interaction and machine learning techniques. 
+In my recent projects, I explored the challenges of identifying errors from speech recognizer and 
+conducted user studies to facilitate machine teaching for non-experts with a teachable object recognizer. 
+My advisor is Professor [Hernisa Kacorri](https://terpconnect.umd.edu/~hernisa/) in [iSchool at University of Maryland, College Park](https://ischool.umd.edu/).
 
 <b> Currently, I am on the job market. If you are hiring a researcher on user experience, machine learning, and human-computer interaction, please send an email to me.</b> ([jhong12@umd.edu](mailto:jhong12@umd.edu))
 
