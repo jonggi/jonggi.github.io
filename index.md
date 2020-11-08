@@ -16,6 +16,6 @@ In my recent projects, I explored the challenges of identifying errors from spee
 conducted user studies to facilitate machine teaching with a teachable object recognizer for non-experts.
 
 
-<b> Currently, I am on the job market. If you are hiring a researcher on user experience, machine learning, and human-computer interaction, please send an email to me.</b> ([jhong12@umd.edu](mailto:jhong12@umd.edu))
+<b> Currently, I am on the job market. If you are hiring, please reach out to me by email.</b> ([jhong12@umd.edu](mailto:jhong12@umd.edu))
 
 ![intro_image](/images/symposium.png){:class="img-responsive"}
