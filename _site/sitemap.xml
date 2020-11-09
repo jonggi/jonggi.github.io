@@ -35,6 +35,9 @@
 <loc>http://localhost:4000/awards/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/biocv/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
@@ -48,6 +51,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/work/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/CV_JonggiHong.pdf</loc>
+<lastmod>2020-11-06T06:52:42-05:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/papers/ASSETS2016-AphasiaHMD.pdf</loc>

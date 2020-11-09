@@ -89,6 +89,8 @@
 <link rel="stylesheet" href="http://localhost:4000/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+
     
 
 <!-- start custom head snippets -->
@@ -152,10 +154,7 @@
             <li class="masthead__menu-item"><a href="http://localhost:4000/publications/">Publications</a></li>
           
             
-            <li class="masthead__menu-item"><a href="http://localhost:4000/awards/">Awards</a></li>
-          
-            
-            <li class="masthead__menu-item"><a href="http://localhost:4000/work/">Work</a></li>
+            <li class="masthead__menu-item"><a href="http://localhost:4000/biocv/">CV / Bio</a></li>
           
         </ul>
         <ul class="hidden-links hidden"></ul>
@@ -211,9 +210,9 @@
       
       
       
+        <li><a href="https://www.linkedin.com/in/jonggi-hong-a856b5167"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       
       
-        <li><a href="https://instagram.com/koreahjg"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
       
       
       
@@ -249,14 +248,7 @@
     
       <h1 class="page__title">Projects</h1>
     
-    <!-- 
-My work is at the intersection of machine learning, human computer interaction, and accessibility. 
-I am exploring blind and sighted users' interactions with speech and image recognition systems which are error prone as any automation systems.
-My projects range from exploring the challenges of using a teachable object recognizer for people with and without visual impairments,
-characterizing the interactions to identifying speech recognition errors with synthesized speech, and developing mobile/wearable devices.
- -->
-
-<p>The overarching theme of my research is designing and evaluating accessible interactions with emerging technologies such as wearables and AI-infused applications. The majority of my work has focus on technologies that benefit people with visual impairments such as exploring interactions with wearables for directional feedback or exploring interactions with speech and image recognition systems, which are error prone as any automation systems. To better contextualize my findings and contribute to inclusive interactions that can benefit a larger population, sighted participants are often included in my studies.</p>
+    <p>The overarching theme of my research is designing and evaluating accessible interactions with emerging technologies such as wearables and AI-infused applications. The majority of my work has focus on technologies that benefit people with visual impairments such as exploring interactions with wearables for directional feedback or exploring interactions with speech and image recognition systems, which are error prone as any automation systems. To better contextualize my findings and contribute to inclusive interactions that can benefit a larger population, sighted participants are often included in my studies.</p>
 
 <h2 id="teachable-interface-for-personalizing-an-object-recognizer">Teachable Interface for Personalizing an Object Recognizer</h2>
 
@@ -266,7 +258,14 @@ characterizing the interactions to identifying speech recognition errors with sy
   <img src="/images/MachineTeachingPerception.png" width="80%" />
 </p>
 
-<p>This project aims to build a teachable object recognizer (TOR) that helps people with visual impairments to identify objects independently using their smartphones. With a TOR, users can personalize the object recognizer by training the models with their own images. This project addresses two issues to develop this system: non-experts’ perception of machine teaching, blind users’ challenges of taking photos for training an object recognizer.</p>
+<p>The projects in this research aim to improve the user interface of machine teaching for non-experts. 
+Through a user study, I examined end-users’ perception of machine teaching through a quantitative and qualitative analysis 
+so that we can understand how non-experts train a machine learning model using a teachable interface. 
+As a machine teaching application, I built a teachable object recognizer using an Inception-v3 model and transfer learning in this study. 
+In addition, as an effort to facilitate machine teaching for end-users, 
+I led a project to create a user interface that generates descriptors of a training set so that a blind user can understand the training set 
+based on the them when they fine-tune an object recognizer with their own photos as a training set. 
+The descriptors are generated using computer vision techniques such as hand detection, image quality assessment, and SIFT feature extraction/matching.</p>
 
 <h3 id="publications">Publications</h3>
 <p><a href="/papers/CHI2020-CrowdTeaMa.pdf">Crowdsourcing the Perception of Machine Teaching</a><br />
@@ -276,6 +275,14 @@ Proc. SIGCHI Conference on Human Factors in Computing Systems (CHI 2020)</p>
 <p><a href="/papers/ASSETS2019-Revisiting.pdf">Revisiting Blind Photography in the Context of Teachable Object Recognizers</a><br />
 Kyungjun Lee, <strong>Jonggi Hong</strong>, Ebrima Jarjue, Simone Pimento, Hernisa Kacorri <br />
 Proc. International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2019)</p>
+
+<p><a href="/papers/CrowdTeaMa_CHI2019_LateBreakingWork.pdf">Exploring Machine Teaching for Object Recognition with the Crowd</a><br />
+<strong>Jonggi Hong</strong>, Kyungjun Lee, June Xu, Hernisa Kacorri<br />
+In Extended Abstracts of the ACM Conference on Human Factors in Computing Systems (CHI EA 2019)</p>
+
+<p><a href="/papers/Ubicomp2018_DC_Jonggi.pdf">Accessible Human-Error Interactions in AI Applications for the Blind</a><br />
+<strong>Jonggi Hong</strong><br />
+UbiComp 2018 Doctoral Colloquium</p>
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray" />
 
@@ -287,7 +294,14 @@ Proc. International ACM SIGACCESS Conference on Computers and Accessibility (ASS
   <img src="/images/dictation_CHI2017.png" width="80%" />
 </p>
 
-<p>While speech input has improved dramatically in the past few years, reviewing and editing the dictated text during non-visual use has been a challenge for people with visual impairments. This project characterizes the challenge of identifying ASR errors with audio-only interactions (i.e., listening to a synthesized speech).</p>
+<p>I explored the challenges of identifying automatic speech recognition errors for people with visual impairments. 
+Due to the similarity between the text-to-speech of the original input and the misrecognized texts, 
+blind users may miss the errors when they review the speech recognition results with text-to-speech. 
+Therefore, I explored the experience of reviewing and identifying errors through qualitative analysis 
+(a semi-structured interview and thematic coding) and evaluated the users’ ability of identifying errors with text-to-speech through quantitative analysis. 
+In addition, as a part of accessibility research, I designed and created a prototype of haptic wristbands that can indicate direction with the vibrations around a wrist. 
+Through a user study with statistical analysis, we established a design of a haptic wristband that allows a blind user 
+to trace a path or find a target on a surface based on the directional guidance.</p>
 
 <h3 id="publications-1">Publications</h3>
 <p><a href="/papers/TACCESS2020-speech.pdf">Reviewing Speech Input with Audio: Differences between Blind and Sighted Users</a><br />
@@ -298,16 +312,40 @@ ACM Transactions on Accessible Computing. 13, 1, Article 2 (TACCESS 2020)</p>
 <strong>Jonggi Hong</strong>, Leah Findlater<br />
 Proc. SIGCHI Conference on Human Factors in Computing Systems (CHI 2018)</p>
 
+<p><a href="/papers/CHI2017Workshop_dictation.pdf">Correcting Errors in Speech Input During Non-visual Use</a><br />
+<strong>Jonggi Hong</strong>, Leah Findlater<br />
+CHI 2017 Workshop on Ubiquitous Text Interaction</p>
+
 <hr style="height:2px;border-width:0;color:gray;background-color:gray" />
 
-<h2 id="interactions-in-mobile-and-wearable-devices">Interactions in Mobile and Wearable devices</h2>
+<h2 id="detecting-of-misalignments-between-promotion-links-and-landing-pages">Detecting of Misalignments Between Promotion Links and Landing Pages</h2>
+
+<p align="center">
+  <img src="/images/link_analysis.png" width="80%" />
+</p>
+<p>At Adobe Research, I developed a machine learning model that classifies the semantic relationship between a link and a landing page. 
+Beyond detecting the “Page not found” error from the server, it analyzes the relationship to detect the landing pages with semantic problems such as outdated information, 
+irrelevant information, and having unexpected additional steps. In this project, I collected and cleaned the data for machine learning. 
+The classifiers are built and evaluated using SVM, Random Forest, and neural network. 
+This project is a part of research to build a system that helps online marketers managing their emails with links to external web pages. 
+This system is expected to help them to identify the misaligned links and resolve the problems in the links or landing pages quickly.</p>
+
+<h3 id="publications-2">Publications</h3>
+
+<p>A method for predicting semantic misalignments between link and landing page<br />
+Takyeon Lee, <strong>Jonggi Hong</strong>, Eunyee Koh<br />
+USA, 2019 (Patent)</p>
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray" />
+
+<h2 id="interacting-with-mobile-and-wearable-devices">Interacting with Mobile and Wearable devices</h2>
 
 <p align="center">
   <img src="/images/Haptic_GI2016.png" width="80%" />
 </p>
 <p>The wearable and mobile devices can enable novel interactions for people with disabilities. They can also enhance the interfaces of augmented reality applications and smart watches.</p>
 
-<h3 id="publications-2">Publications</h3>
+<h3 id="publications-3">Publications</h3>
 <p><a href="/papers/ASSETS2017-haptic.pdf">Evaluating Wrist-Based Haptic Feedback for Non-Visual Target Finding and Path Tracing on a 2D Surface</a><br />
 <strong>Jonggi Hong</strong>, Alisha Pradhan, Jon E. Froehlich, Leah Findlater<br />
 Proc. International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2017)</p>
@@ -320,6 +358,14 @@ Proc. International ACM SIGACCESS Conference on Computers and Accessibility (ASS
 <strong>Jonggi Hong</strong>, Lee Stearns, Tony Cheng, Jon E. Froehlich, David Ross, Leah Findlater<br />
 Proc. Graphics Interface Conference (GI 2016)</p>
 
+<p><a href="/papers/IWC_SplitBoard.pdf">Comparison of Three QWERTY Keyboards for a Smartwatch</a><br />
+<strong>Jonggi Hong</strong>, Seongkook Heo, Poika Isokoski, and Geehyuk Lee<br />
+Interacting with Computers, iww003. (IWC 2016)</p>
+
+<p><a href="/papers/IWC-TouchRoller.pdf">TouchRoller: A Touch-sensitive Cylindrical Input Device for GUI Manipulation of Interactive TVs</a><br />
+<strong>Jonggi Hong</strong>, Hwan Kim, Woohun Lee, Geehyuk Lee<br />
+Interacting with Computers, iwv006. (IWC 2015)</p>
+
 <p><a href="/papers/CHI2015-SplitBoard.pdf">SplitBoard: A Simple Split Soft Keyboard for Wristwatch-sized Touch Screens</a><br />
 <strong>Jonggi Hong</strong>, Seongkook Heo, Poika Isokoski, Geehyuk Lee<br />
 Proc. SIGCHI Conference on Human Factors in Computing Systems (CHI 2015)</p>
@@ -328,33 +374,16 @@ Proc. SIGCHI Conference on Human Factors in Computing Systems (CHI 2015)</p>
 Jooyeun Ham, <strong>Jonggi Hong</strong>, Youngkyoon Jang, Seung Hwan Ko, Woontack Woo<br />
 International Conference on Human-Computer Interaction (HCII 2014)</p>
 
+<p><a href="/papers/CHI2013-TouchShield.pdf">TouchShield: A Virtual Control for Stable Grip of a Smartphone Using the Thumb</a><br />
+<strong>Jonggi Hong</strong>, Geehyuk Lee<br />
+In Extended Abstracts of the ACM Conference on Human Factors in Computing Systems (CHI EA 2013)</p>
+
   </div>
 </div>
 
 
-    <div class="page__footer">
-      <footer>
-        <!-- start custom footer snippets -->
-<a href="/sitemap/">Sitemap</a>
-<!-- end custom footer snippets -->
+	
 
-        
-
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    
-    
-    
-    
-    
-    <li><a href="http://localhost:4000/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
-  </ul>
-</div>
-
-<div class="page__footer-copyright">&copy; 2020 Jonggi Hong. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-
-      </footer>
-    </div>
 
     <script src="http://localhost:4000/assets/js/main.min.js"></script>
 
@@ -367,7 +396,7 @@ International Conference on Human-Computer Interaction (HCII 2014)</p>
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', '', 'auto');
+  ga('create', 'UA-46462564-2', 'auto');
   ga('send', 'pageview');
 </script>
 

@@ -16,16 +16,16 @@ author:
   email            : "jhong12@umd.edu"
 #  instagram        : "koreahjg"
   twitter          : "jonggi_hong"
-  linkedin         : "https://www.linkedin.com/in/jonggi-hong-a856b5167/"
+  linkedin         : "jonggi-hong-a856b5167"
   
-footer:
-  links:
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-user-graduate"
-      url: "https://scholar.google.com/citations?user=55RWNnMAAAAJ&hl=en"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jonggi_hong"
+#footer:
+#  links:
+#    - label: "Google Scholar"
+#      icon: "fas fa-fw fa-user-graduate"
+#      url: "https://scholar.google.com/citations?user=55RWNnMAAAAJ&hl=en"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/jonggi_hong"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://www.instagram.com/koreahjg/"
