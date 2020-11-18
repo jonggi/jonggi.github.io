@@ -105,7 +105,7 @@ USA, 2019 (Patent)
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 
-## Interacting with Mobile and Wearable devices
+## Interacting with Wearable Devices
 
 <p align="center">
   <img src="/images/Haptic_GI2016.png" width="80%">
