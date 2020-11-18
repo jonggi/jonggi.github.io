@@ -16,7 +16,7 @@ He is a research assistant at the Intelligent Assistive Machines lab at UMD unde
 
 Find out more about me in my [C.V. (academic resume)](../CV_JonggiHong.pdf).
 
-# PROFESSIONAL EXPERIENCE
+# Professional Experience
 
 **Research Assistant**<br>
 Intelligent Assistive Machines Lab <br>
