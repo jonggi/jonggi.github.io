@@ -28,7 +28,7 @@ Sep, 2017 – Present<br>
 Future of work community, Ability team <br>
 Microsoft Research, Redmond, WA, USA<br>
 June, 2020 – Sep, 2020<br>
-*Mentors: Daniela Massiceti, Edward Cutrell, Cecily Morrison*
+*Mentors: Daniela Massiceti, Edward Cutrell, Cecily Morrison, Saqib Shaikh*
 
 **Data Science Research Intern**<br>
 Systems Technology Lab <br>

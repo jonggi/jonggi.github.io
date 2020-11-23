@@ -1,0 +1,373 @@
+
+<!--
+how to add a publication
+ 1) Add a section with bibtex
+ 2) Add a javascript code for the bibtex at the end of this file
+ 3) Done
+
+Reference: https://dev.vast.com/jquery-popup-overlay/
+ -->
+
+<!-- Include jQuery Popup Overlay -->
+<script src="../assets/js/jquery.popupoverlay.min.js"></script>
+
+
+<style>
+.popup_content {
+  margin: 10px;
+  padding: 0 10px;
+  max-width: 60%;
+  border: 2px solid #444;
+  background: white;
+}
+</style>
+
+
+<section id="hong2020crowdsourcing">
+<pre>
+@inproceedings{hong2020crowdsourcing,
+    author = {Hong, Jonggi and Lee, Kyungjun and Xu, June and Kacorri, Hernisa},
+    title = {Crowdsourcing the Perception of Machine Teaching},
+    year = {2020},
+    isbn = {9781450367080},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3313831.3376428},
+    doi = {10.1145/3313831.3376428},
+    abstract = {Teachable interfaces can empower end-users to attune machine learning systems to their idiosyncratic characteristics and environment by explicitly providing pertinent training examples. While facilitating control, their effectiveness can be hindered by the lack of expertise or misconceptions. We investigate how users may conceptualize, experience, and reflect on their engagement in machine teaching by deploying a mobile teachable testbed in Amazon Mechanical Turk. Using a performance-based payment scheme, Mechanical Turkers (N=100) are called to train, test, and re-train a robust recognition model in real-time with a few snapshots taken in their environment. We find that participants incorporate diversity in their examples drawing from parallels to how humans recognize objects independent of size, viewpoint, location, and illumination. Many of their misconceptions relate to consistency and model capabilities for reasoning. With limited variation and edge cases in testing, the majority of them do not change strategies on a second training attempt.},
+    booktitle = {Proceedings of the 2020 CHI Conference on Human Factors in Computing Systems},
+    pages = {1–14},
+    numpages = {14},
+    keywords = {object recognition, interactive machine learning, personalization, teachable interfaces, crowdsourcing},
+    location = {Honolulu, HI, USA},
+    series = {CHI '20}
+}
+</pre>
+</section>
+
+
+<section id="lee2019revisiting">
+<pre>
+@inproceedings{lee2019revisiting,
+    author = {Lee, Kyungjun and Hong, Jonggi and Pimento, Simone and Jarjue, Ebrima and Kacorri, Hernisa},
+    title = {Revisiting Blind Photography in the Context of Teachable Object Recognizers},
+    year = {2019},
+    isbn = {9781450366762},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3308561.3353799},
+    doi = {10.1145/3308561.3353799},
+    abstract = {For people with visual impairments, photography is essential in identifying objects through remote sighted help and image recognition apps. This is especially the case for teachable object recognizers, where recognition models are trained on user's photos. Here, we propose real-time feedback for communicating the location of an object of interest in the camera frame. Our audio-haptic feedback is powered by a deep learning model that estimates the object center location based on its proximity to the user's hand. To evaluate our approach, we conducted a user study in the lab, where participants with visual impairments (N=9) used our feedback to train and test their object recognizer in vanilla and cluttered environments. We found that very few photos did not include the object (2% in the vanilla and 8% in the cluttered) and the recognition performance was promising even for participants with no prior camera experience. Participants tended to trust the feedback even though they know it can be wrong. Our cluster analysis indicates that better feedback is associated with photos that include the entire object. Our results provide insights into factors that can degrade feedback and recognition performance in teachable interfaces.},
+    booktitle = {The 21st International ACM SIGACCESS Conference on Computers and Accessibility},
+    pages = {83–95},
+    numpages = {13},
+    keywords = {visual impairments, sonification, object recognition, hand},
+    location = {Pittsburgh, PA, USA},
+    series = {ASSETS '19}
+}
+</pre>
+</section>
+
+<section id="hong2018identifying">
+<pre>
+@inproceedings{hong2018identifying,
+    author = {Hong, Jonggi and Findlater, Leah},
+    title = {Identifying Speech Input Errors Through Audio-Only Interaction},
+    year = {2018},
+    isbn = {9781450356206},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3173574.3174141},
+    doi = {10.1145/3173574.3174141},
+    abstract = {Speech has become an increasingly common means of text input, from smartphones and smartwatches to voice-based intelligent personal assistants. However, reviewing the recognized text to identify and correct errors is a challenge when no visual feedback is available. In this paper, we first quantify and describe the speech recognition errors that users are prone to miss, and investigate how to better support this error identification task by manipulating pauses between words, speech rate, and speech repetition. To achieve these goals, we conducted a series of four studies. Study 1, an in-lab study, showed that participants missed identifying over 50% of speech recognition errors when listening to audio output of the recognized text. Building on this result, Studies 2 to 4 were conducted using an online crowdsourcing platform and showed that adding a pause between words improves error identification compared to no pause, the ability to identify errors degrades with higher speech rates (300 WPM), and repeating the speech output does not improve error identification. We derive implications for the design of audio-only speech dictation.},
+    booktitle = {Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems},
+    pages = {1–12},
+    numpages = {12},
+    keywords = {audio-only interaction, text entry, speech dictation, error correction, eyes-free use, synthesized speech},
+    location = {Montreal QC, Canada},
+    series = {CHI '18}
+}
+</pre>
+</section>
+
+<section id="hong2017evaluating">
+<pre>
+@inproceedings{hong2017evaluating,
+    author = {Hong, Jonggi and Pradhan, Alisha and Froehlich, Jon E. and Findlater, Leah},
+    title = {Evaluating Wrist-Based Haptic Feedback for Non-Visual Target Finding and Path Tracing on a 2D Surface},
+    year = {2017},
+    isbn = {9781450349260},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3132525.3132538},
+    doi = {10.1145/3132525.3132538},
+    abstract = {Precisely guiding a blind person's hand can be useful for a range of applications from tracing printed text to learning and understanding shapes and gestures. In this paper, we evaluate wrist-worn haptics as a directional hand guide. We implemented and evaluated the following haptic wristband variations: (1) four versus eight vibromotor designs; (2) vibration from only a single motor at a time versus from two adjacent motors using interpolation. To evaluate our designs, we conducted two studies: Study 1 (N=13, 2 blind) showed that participants could non-visually find targets and trace paths more quickly and accurately with single-motor feedback than with interpolated feedback, particularly when only four motors were used. Study 2 (N=14 blind or visually impaired participants) found that single-motor feedback with four motors was faster, more accurate, and most preferred compared to similar feedback with eight motors. We derive implications for the design of wrist-worn directional haptic feedback and discuss future work.},
+    booktitle = {Proceedings of the 19th International ACM SIGACCESS Conference on Computers and Accessibility},
+    pages = {210–219},
+    numpages = {10},
+    keywords = {blind user, haptic wristband, wearable computing, accessibility, haptic feedback},
+    location = {Baltimore, Maryland, USA},
+    series = {ASSETS '17}
+}
+</pre>
+</section>
+
+<section id="williams2016cost">
+<pre>
+@inproceedings{williams2016cost,
+    author = {Williams, Kristin and Moffatt, Karyn and Hong, Jonggi and Faroqi-Shah, Yasmeen and Findlater, Leah},
+    title = {The Cost of Turning Heads: A Comparison of a Head-Worn Display to a Smartphone for Supporting Persons with Aphasia in Conversation},
+    year = {2016},
+    isbn = {9781450341240},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/2982142.2982165},
+    doi = {10.1145/2982142.2982165},
+    abstract = {Current symbol-based dictionaries providing vocabulary support for persons with the language disorder, aphasia, are housed on smartphones or other portable devices. To employ the support on these external devices requires the user to divert their attention away from their conversation partner, to the neglect of conversation dynamics like eye contact or verbal inflection. A prior study investigated head-worn displays (HWDs) as an alternative form factor for supporting glanceable, unobtrusive, and always-available conversation support, but it did not directly compare the HWD to a control condition. To address this limitation, we compared vocabulary support on a HWD to equivalent support on a smartphone in terms of overall experience, perceived focus, and conversational success. Lastly, we elicited critical discussion of how each device might be better designed for conversation support. Our work contributes (1) evidence that a HWD can support more efficient communication, (2) preliminary results that a HWD can provide a better overall experience using assistive vocabulary, and (3) a characterization of the design features persons with aphasia value in portable conversation support technologies. Our findings should motivate further work on head-worn conversation support for persons with aphasia.},
+    booktitle = {Proceedings of the 18th International ACM SIGACCESS Conference on Computers and Accessibility},
+    pages = {111–120},
+    numpages = {10},
+    keywords = {aphasia, conversational support, aac, accessibility., head-worn display, wearable computing},
+    location = {Reno, Nevada, USA},
+    series = {ASSETS '16}
+}
+</pre>
+</section>
+
+<section id="hong2016evaluating">
+<pre>
+@inproceedings{hong2016evaluating,
+    author = {Hong, Jonggi and Stearns, Lee and Froehlich, Jon and Ross, David and Findlater, Leah},
+    title = {Evaluating Angular Accuracy of Wrist-Based Haptic Directional Guidance for Hand Movement},
+    year = {2016},
+    isbn = {9780994786814},
+    publisher = {Canadian Human-Computer Communications Society},
+    address = {Waterloo, CAN},
+    abstract = {Haptic guidance for the hand can offer an alternative to visual or audio feedback when those information channels are overloaded or inaccessible due to environmental factors, vision impairments, or hearing loss. We report on a controlled lab experiment to evaluate the impact of directional wrist-based vibro-motor feedback on hand movement, comparing lower-fidelity (4-motor) and higher-fidelity (8-motor) wristbands. Twenty blindfolded participants completed a series of trials, which consisted of interpreting a haptic stimulus and executing a 2D directional movement on a touchscreen. We compare the two conditions in terms of movement error and trial speed, but also analyze the impact of specific directions on performance. Our results show that doubling the number of haptic motors reduces directional movement error but not to the extent expected. We also empirically derive an apparent lower bound in accuracy of ~25° in interpreting and executing on the directional haptic signal.},
+    booktitle = {Proceedings of the 42nd Graphics Interface Conference},
+    pages = {195–200},
+    numpages = {6},
+    keywords = {Wearables, haptics, non-visual directional guidance},
+    location = {Victoria, British Columbia, Canada},
+    series = {GI '16}
+}
+</pre>
+</section>
+
+<section id="hong2015splitboard">
+<pre>
+@inproceedings{hong2015splitboard,
+    author = {Hong, Jonggi and Heo, Seongkook and Isokoski, Poika and Lee, Geehyuk},
+    title = {SplitBoard: A Simple Split Soft Keyboard for Wristwatch-Sized Touch Screens},
+    year = {2015},
+    isbn = {9781450331456},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/2702123.2702273},
+    doi = {10.1145/2702123.2702273},
+    abstract = {Text entry on a smartwatch is a challenging problem due to the device's limited screen area. In this paper, we introduce the SplitBoard, which is a soft keyboard designed for a smartwatch. As the user flicks left or right on the keyboard, it switches between the left and right halves of a QWERTY keyboard. We report the results of two user experiments where the SplitBoard was compared to an ordinary QWERTY keyboard, the ZoomBoard, SlideBoard, and Qwerty-like keypad. We measured the initial performance with new users for each method. The SplitBoard outperformed all other techniques in the experiments. The SplitBoard is expected to be a viable option for smartwatch text entry because of its light processing requirements, good performance, and immediate learnability.},
+    booktitle = {Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems},
+    pages = {1233–1236},
+    numpages = {4},
+    keywords = {soft keyboard, smartwatch, splitboard, text entry},
+    location = {Seoul, Republic of Korea},
+    series = {CHI '15}
+}
+</pre>
+</section>
+
+<section id="ham2014smart">
+<pre>
+@InProceedings{ham2014smart,
+    author="Ham, Jooyeun
+    and Hong, Jonggi
+    and Jang, Youngkyoon
+    and Ko, Seung Hwan
+    and Woo, Woontack",
+    editor="Streitz, Norbert
+    and Markopoulos, Panos",
+    title="Smart Wristband: Touch-and-Motion--Tracking Wearable 3D Input Device for Smart Glasses",
+    booktitle="Distributed, Ambient, and Pervasive Interactions",
+    year="2014",
+    publisher="Springer International Publishing",
+    address="Cham",
+    pages="109--118",
+    abstract="The smart wristband is a novel type of wearable input device for smart glasses, and it can control multi-dimensional contents by using touch and motion. The smart wristband uses a touch-and-motion--tracking system with a touch screen panel (TSP) and inertial measurement unit (IMU) to help users control the smart glasses' interface accurately and quickly without environmental noise, distortion, and multi-leveled pattern recognition tasks.",
+    isbn="978-3-319-07788-8"
+}
+</pre>
+</section>
+
+
+<section id="hong2020reviewing">
+<pre>
+@article{hong2020reviewing,
+    author = {Hong, Jonggi and Vaing, Christine and Kacorri, Hernisa and Findlater, Leah},
+    title = {Reviewing Speech Input with Audio: Differences between Blind and Sighted Users},
+    year = {2020},
+    issue_date = {April 2020},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    volume = {13},
+    number = {1},
+    issn = {1936-7228},
+    url = {https://doi.org/10.1145/3382039},
+    doi = {10.1145/3382039},
+    abstract = {Speech input is a primary method of interaction for blind mobile device users, yet the process of dictating and reviewing recognized text through audio only (i.e., without access to visual feedback) has received little attention. A recent study found that sighted users could identify only about half of automatic speech recognition (ASR) errors when listening to text-to-speech output of the ASR results. Blind screen reader users, in contrast, may be better able to identify ASR errors through audio due to their greater use of speech interaction and increased ability to comprehend synthesized speech. To compare the experiences of blind and sighted users with speech input and ASR errors, as well as to compare their ability to identify ASR errors through audio-only interaction, we conducted a lab study with 12 blind and 12 sighted participants. The study included a semi-structured interview portion to qualitatively understand experiences with ASR, followed by a controlled speech input task to quantitatively compare participants’ ability to identify ASR errors in their dictated text. Findings revealed differences between blind and sighted participants in terms of how they use speech input and their level of concern for ASR errors (e.g., blind users were more highly concerned). In the speech input task, blind participants were able to identify only 40% of ASR errors, which, counter to our hypothesis, was not significantly different from sighted participants’ performance. In depth analysis of speech input, ASR errors, and strategy of identifying ASR errors scrutinized how participants entered a text with speech input and reviewed it. Our findings indicate the need for future work on how to support blind users in confidently using speech input to generate accurate, error-free text.},
+    journal = {ACM Trans. Access. Comput.},
+    month = apr,
+    articleno = {2},
+    numpages = {28},
+    keywords = {Speech input, ASR errors, synthesized speech, visual impairment, dictation, blind, text entry}
+}
+</pre>
+</section>
+
+<section id="hong2016comparison">
+<pre>
+@article{hong2016comparison,
+    author = {Hong, Joggi and Heo, Seongkook and Isokoski, Poika and Lee, Geehyuk},
+    title = "{Comparison of Three QWERTY Keyboards for a Smartwatch}",
+    journal = {Interacting with Computers},
+    volume = {28},
+    number = {6},
+    pages = {811-825},
+    year = {2016},
+    month = {10},
+    abstract = "{ The QWERTY keyboard has been a de facto standard for computer text entry and continues to be one for mobile text entry such as for smartphones. It is not clear, however, that it will continue to be an option for text entry for much smaller devices such as smartwatches. In a series of user experiments, we examined the performance of the QWERTY keyboard when it is reduced to fit a small smartwatch screen. At the same time, we examined whether the ZoomBoard and the SplitBoard, which are QWERTY keyboards augmented by zooming and panning strategies, respectively, would be effective in comparison with a plain QWERTY keyboard. In Experiment 1, we evaluated the text entry performance of new users on the three QWERTY keyboards. In Experiment 2, we evaluated the relative performance of the three keyboards for three different screen sizes. In Experiment 3, we further observed how the keyboard performance changed when used in a mobile situation. Main results are: (i) users could adapt to a plain QWERTY keyboard even in the smallest screen cases. (ii) The SplitBoard consistently showed a better performance than other keyboards in all tested sizes. (iii) The SplitBoard showed a better performance than other keyboards in a mobile condition (treadmill) and was preferred most by participants. }",
+    issn = {0953-5438},
+    doi = {10.1093/iwc/iww003},
+    url = {https://doi.org/10.1093/iwc/iww003},
+    eprint = {https://academic.oup.com/iwc/article-pdf/28/6/811/7920055/iww003.pdf},
+}
+</pre>
+</section>
+
+
+<section id="hong2015touchroller">
+<pre>
+@article{hong2015touchroller,
+    author = {Hong, Jonggi and Kim, Hwan and Lee, Woohun and Lee, Geehyuk},
+    title = "{TouchRoller: A Touch-sensitive Cylindrical Input Device for GUI Manipulation of Interactive TVs}",
+    journal = {Interacting with Computers},
+    volume = {28},
+    number = {3},
+    pages = {293-310},
+    year = {2015},
+    month = {03},
+    abstract = "{The two main tasks of a smart TV GUI are menu navigation and free pointing. Traditional remotes with directional keys are suitable for menu navigation but may not be so for free pointing. More recent remotes with a two-dimensional (2D) pointing device are suitable for free pointing but may not be so for menu navigation. To support both types of tasks well, we devised a new input device called TouchRoller. We expect that it can support both types of tasks well because it has a separable control structure and a continuous input property. A comparative user study showed that the performance of TouchRoller is comparable to that of directional keys for menu navigation and 2D pointing devices for free pointing. In addition, it was most favored by the participants, and NASA TLX test results showed that TouchRoller demands the lowest task load.}",
+    issn = {0953-5438},
+    doi = {10.1093/iwc/iwv006},
+    url = {https://doi.org/10.1093/iwc/iwv006},
+    eprint = {https://academic.oup.com/iwc/article-pdf/28/3/293/6772833/iwv006.pdf},
+}
+</pre>
+</section>
+
+
+<section id="hong2019exploring">
+<pre>
+@inproceedings{hong2019exploring,
+    author = {Hong, Jonggi and Lee, Kyungjun and Xu, June and Kacorri, Hernisa},
+    title = {Exploring Machine Teaching for Object Recognition with the Crowd},
+    year = {2019},
+    isbn = {9781450359719},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3290607.3312873},
+    doi = {10.1145/3290607.3312873},
+    abstract = {Teachable interfaces can enable end-users to personalize machine learning applications by explicitly providing a few training examples. They promise higher robustness in the real world by significantly constraining conditions of the learning task to a specific user and their environment. While facilitating user control, their effectiveness can be hindered by lack of expertise or misconceptions. Through a mobile teachable testbed in Amazon Mechanical Turk, we explore how non-experts conceptualize, experience, and reflect on their engagement with machine teaching in the context of object recognition.},
+    booktitle = {Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems},
+    pages = {1–6},
+    numpages = {6},
+    keywords = {object recognition, interactive machine learning, crowdsourcing, teachable machines},
+    location = {Glasgow, Scotland Uk},
+    series = {CHI EA '19}
+}
+</pre>
+</section>
+
+<section id="hong2018accessible">
+<pre>
+@inproceedings{hong2018accessible,
+    author = {Hong, Jonggi},
+    title = {Accessible Human-Error Interactions in AI Applications for the Blind},
+    year = {2018},
+    isbn = {9781450359665},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/3267305.3267321},
+    doi = {10.1145/3267305.3267321},
+    booktitle = {Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers},
+    pages = {522–528},
+    numpages = {7},
+    keywords = {speech input, accessibility, Machine learning, personalized object recognizer, automatic speech recognizer},
+    location = {Singapore, Singapore},
+    series = {UbiComp '18}
+}
+</pre>
+</section>
+
+<section id="hong2013touchshield">
+<pre>
+@inproceedings{hong2013touchshield,
+    author = {Hong, Jonggi and Lee, Geehyuk},
+    title = {TouchShield: A Virtual Control for Stable Grip of a Smartphone Using the Thumb},
+    year = {2013},
+    isbn = {9781450319522},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    url = {https://doi.org/10.1145/2468356.2468589},
+    doi = {10.1145/2468356.2468589},
+    abstract = {People commonly manipulate their smartphones using the thumb, but this is often done with an unstable grip in which the phone lays on their fingers, while the thumb hovers over the touch screen. In order to offer a secure and stable grip, we designed a virtual control called TouchShield, which provides place in which the thumb can pin the phone down in order to provide a stable grip. In a user study, we confirmed that this form of control does not interfere with existing touch screen operations, and the possibility that TouchShield can make more stable grip. An incidental function of TouchShield is that it provides shortcuts to frequently used commands via the thumb, a function that was also shown to be effective in the user study.},
+    booktitle = {CHI '13 Extended Abstracts on Human Factors in Computing Systems},
+    pages = {1305–1310},
+    numpages = {6},
+    keywords = {function keys, safety, touch screen smartphone, touchshield},
+    location = {Paris, France},
+    series = {CHI EA '13}
+}
+</pre>
+</section>
+
+<section id="lee2014graphical">
+<pre>
+@misc{lee2014graphical,
+  title={Graphical user interface (gui) widget for stable holding and control of smart phone based on touch screen},
+  author={Lee, Geehyuk and Hong, Jong Gi},
+  year={2014},
+  month=mar # "~20",
+  publisher={Google Patents},
+  note={US Patent App. 13/711,553}
+}
+</pre>
+</section>
+
+
+
+<!--
+<section id="">
+<pre>
+</pre>
+</section>
+-->
+
+<script>
+$('#hong2020crowdsourcing').popup();
+$('#lee2019revisiting').popup();
+$('#hong2018identifying').popup();
+$('#hong2017evaluating').popup();
+$('#williams2016cost').popup();
+$('#hong2016evaluating').popup();
+$('#hong2015splitboard').popup();
+$('#ham2014smart').popup();
+$('#hong2020reviewing').popup();
+$('#hong2016comparison').popup();
+$('#hong2015touchroller').popup();
+$('#hong2019exploring').popup();
+$('#hong2018accessible').popup();
+$('#hong2013touchshield').popup();
+$('#lee2014graphical').popup();
+</script>
+
+

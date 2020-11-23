@@ -2,6 +2,7 @@
    ARCHIVE
    ========================================================================== */
 
+
 .archive {
   margin-bottom: 2em;
 
@@ -15,7 +16,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
