@@ -92,7 +92,7 @@ The overarching theme of my research is designing and evaluating accessible inte
 
 <article class="mini-post">
     <a class="prj_thumb" href="projects/index.html#detecting-of-misalignments-between-promotion-links-and-landing-pages">
-        <img src="/images/prj3_thumbnail.png"></a>
+        <img src="/images/prj3_thumbnail.png" alt="screenshots of an email and a landing page"></a>
     <h3><a href="projects/index.html#detecting-of-misalignments-between-promotion-links-and-landing-pages"> Detecting of Misalignments Between Promotion Links and Landing Pages</a>
     </h3>
     <div>
@@ -106,7 +106,7 @@ The overarching theme of my research is designing and evaluating accessible inte
 
 <article class="mini-post">
     <a class="prj_thumb" href="projects/index.html#interacting-with-wearable-devices">
-        <img src="/images/prj4_thumbnail.png"></a>
+        <img src="/images/prj4_thumbnail.png" alt="components of a haptic wristband: motors, an elastic band, and 3D printed cases for motors on the elastic band."></a>
     <h3><a href="projects/index.html#interacting-with-wearable-devices"> Interacting with wearable devices </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     </h3>

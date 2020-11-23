@@ -13,7 +13,7 @@ The overarching theme of my research is designing and evaluating accessible inte
 <!-- ![intro_image](/images/MachineTeachingPerception.png){:width="80%"}<br> -->
 <!-- <img src='/images/MachineTeachingPerception.png' width=100%><br> -->
 <p align="center">
-  <img src="/images/MachineTeachingPerception.png" width="80%">
+  <img src="/images/MachineTeachingPerception.png" width="80%" alt="sample images of objects collected from crowdworkers.">
 </p>
 
 The projects in this research aim to improve the user interface of machine teaching for non-experts. 
@@ -47,7 +47,7 @@ Kyungjun Lee, **Jonggi Hong**, Ebrima Jarjue, Simone Pimento, Hernisa Kacorri. A
 <!-- ![intro_image](/images/dictation_CHI2017.png){:width="80%"}<br> -->
 <!-- ![intro_image](/images/dictation_CHI2017.png){:class="img-responsive"}<br> -->
 <p align="center">
-  <img src="/images/dictation_CHI2017.png" width="80%">
+  <img src="/images/dictation_CHI2017.png" width="80%" alt="a setup for the speech dictation task">
 </p>
 
 I explored the challenges of identifying automatic speech recognition errors for people with visual impairments. 
@@ -77,7 +77,7 @@ to trace a path or find a target on a surface based on the directional guidance.
 ## Detecting of Misalignments Between Promotion Links and Landing Pages
 
 <p align="center">
-  <img src="/images/link_analysis.png" width="80%">
+  <img src="/images/link_analysis.png" width="80%" alt="screenshots of an email and a landing page">
 </p>
 At Adobe Research, I developed a machine learning model that classifies the semantic relationship between a link and a landing page. 
 Beyond detecting the “Page not found” error from the server, it analyzes the relationship to detect the landing pages with semantic problems such as outdated information, 
@@ -98,7 +98,7 @@ Nedim Lipka, Tak Yeon Lee, Eunyee Koh. DEXA 2018 <br>
 ## Interacting with Wearable Devices
 
 <p align="center">
-  <img src="/images/Haptic_GI2016.png" width="80%">
+  <img src="/images/Haptic_GI2016.png" width="80%" alt="components of a haptic wristband: motors, an elastic band, and 3D printed cases for motors on the elastic band.">
 </p>
 The wearable and mobile devices can enable novel interactions for people with disabilities. They can also enhance the interfaces of augmented reality applications and smart watches.
 
