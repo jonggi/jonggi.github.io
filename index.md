@@ -96,7 +96,7 @@ The overarching theme of my research is designing and evaluating accessible inte
     <h3><a href="projects/index.html#detecting-of-misalignments-between-promotion-links-and-landing-pages"> Detecting of Misalignments Between Promotion Links and Landing Pages</a>
     </h3>
     <div>
-        <a href="https://iam.umd.edu/" class="author" ><img src="/images/Adobe.png" alt="University of Maryland, College Park" align="left"/></a>
+        <a href="https://iam.umd.edu/" class="author" ><img src="/images/Adobe.png" alt="Adobe" align="left"/></a>
         Systems Technology Lab, Adobe Research
         Mentors: <a href="https://research.adobe.com/person/tak-yeon-lee/">Tak Yeon Lee</a>,
         <a href="https://research.adobe.com/person/eunyee-koh/">Eunyee Koh</a> 
