@@ -87,7 +87,7 @@ This project is a part of research to build a system that helps online marketers
 This system is expected to help them to identify the misaligned links and resolve the problems in the links or landing pages quickly.
 
 ### Publication
-[Identifying and Presenting Misalignments between DigitalMessages and External Digital Content](https://www.freepatentsonline.com/y2020/0372399.html)<br>
+[Identifying and Presenting Misalignments between Digital Messages and External Digital Content](https://www.freepatentsonline.com/y2020/0372399.html)<br>
 Tak Yeon Lee, Jonggi Hong, Eunyee Koh. US Patent App. 16/419,676
 
 
