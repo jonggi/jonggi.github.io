@@ -137,4 +137,10 @@ US Patent App. 13/711,553.  <br>
 [[Official]](http://appft.uspto.gov/netacgi/nph-Parser?Sect1=PTO1&Sect2=HITOFF&p=1&u=/netahtml/PTO/srchnum.html&r=1&f=G&l=50&d=PG01&s1=20140078078.PGNR.) 
 <a class="lee2014graphical_open">[BibTex]</a>
 
+[Identifying and Presenting Misalignments between Digital Messages and External Digital Content](https://www.freepatentsonline.com/y2020/0372399.html)<br>
+Tak Yeon Lee, Jonggi Hong, Eunyee Koh. US Patent App. 16/419,676
+[[Local]](/papers/adobe_patent.pdf) 
+[[Official]](https://www.freepatentsonline.com/y2020/0372399.html) 
+<a class="lee2020identifying">[BibTex]</a>
+
 
