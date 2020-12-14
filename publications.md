@@ -142,6 +142,6 @@ Tak Yeon Lee, **Jonggi Hong**, Eunyee Koh <br>
 US Patent App. 16/419,676<br>
 [[Local]](/papers/adobe_patent.pdf) 
 [[Official]](https://www.freepatentsonline.com/y2020/0372399.html) 
-<a class="lee2020identifying">[BibTex]</a>
+<a class="lee2020identifying_open">[BibTex]</a>
 
 
