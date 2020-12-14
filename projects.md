@@ -87,9 +87,8 @@ This project is a part of research to build a system that helps online marketers
 This system is expected to help them to identify the misaligned links and resolve the problems in the links or landing pages quickly.
 
 ### Publication
-[Detecting Link and Landing Page Misalignment in Marketing Emails](https://link.springer.com/chapter/10.1007/978-3-319-99133-7_21)<br>
-Nedim Lipka, Tak Yeon Lee, Eunyee Koh. DEXA 2018 <br>
-(Contributed to the project as a summer intern)
+[Identifying and Presenting Misalignments between DigitalMessages and External Digital Content](https://www.freepatentsonline.com/y2020/0372399.html)<br>
+Tak Yeon Lee, Jonggi Hong, Eunyee Koh. US Patent App. 16/419,676
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
