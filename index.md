@@ -19,7 +19,7 @@ I build machine learning applications and investigate interactions between a use
 In my recent projects, I explored the challenges of identifying errors from speech recognizer and 
 conducted user studies to facilitate machine teaching with a teachable object recognizer for non-experts.
 
-<b> I am planning to graduate by February 2021 and I am looking for research positions in academia and industry. </b> 
+<!-- <b> I am planning to graduate by February 2021 and I am looking for research positions in academia and industry. </b>  -->
 
 <!-- ![intro_image](/images/symposium.png){:class="img-responsive"} -->
 <!-- <img src="/images/Jonggi_presentation.png" width="100%"> -->
