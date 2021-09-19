@@ -78,6 +78,12 @@ International Conference on Human-Computer Interaction (HCII 2014)<br>
 <a class="ham2014smart_open">[BibTex]</a>
 
 ## Journal Papers
+[Reviewing Speech Input with Audio: Differences between Blind and Sighted Users](/papers/TACCESS2020-speech.pdf)<br>
+Amanda Lazar, Robin N. Brewer, Hernisa Kacorri, **Jonggi Hong**, Mary Nicole Dugay Punzalan, Maisarah Mahathir, Olivia K. Richards, Warren Ross III<br>
+Proceedings of Computer Supported Cooperative Work (CSCW 2021)<br>
+[[Local]](/papers/CSCW2021_Dementia_Diaries.pdf) 
+[[Official]]() 
+<a class="lazar2021how">[BibTex]</a>
 
 [Reviewing Speech Input with Audio: Differences between Blind and Sighted Users](/papers/TACCESS2020-speech.pdf)<br>
 **Jonggi Hong**, Christine Vaing, Hernisa Kacorri, Leah Findlater<br>
