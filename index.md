@@ -11,7 +11,7 @@ author_profile: true
 <!-- bundle exec jekyll serve -->
 <!-- http://localhost:4000 -->
 
-I am a postdoctoral researcher at Smith-Kettlewell Eye Research Institute, working with [Dr. James Coughlan](https://www.ski.org/users/james-coughlan).
+I am a postdoctoral researcher at [Smith-Kettlewell Eye Research Institute](https://www.ski.org/), working with [Dr. James Coughlan](https://www.ski.org/users/james-coughlan).
 My research interest is about addressing the real-world problems using human-computer interaction and machine learning techniques. 
 I build machine learning applications and investigate interactions between a user and the application using quantitative and qualitative analysis.
 In my recent projects, I explored the challenges of identifying errors from speech recognizer and 
