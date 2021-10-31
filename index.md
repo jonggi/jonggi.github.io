@@ -11,13 +11,17 @@ author_profile: true
 <!-- bundle exec jekyll serve -->
 <!-- http://localhost:4000 -->
 
-I am a PhD candidate in [Computer Science Department](http://cs.umd.edu/) at [University of Maryland, College Park](http://www.umd.edu), 
-working with Professor [Hernisa Kacorri](https://terpconnect.umd.edu/~hernisa/). I am a member of [Intelligent Assistive Machines lab](https://iam.umd.edu/), 
-[HCIL](http://hcil.umd.edu), and [TRACE center](https://trace.umd.edu/) at UMD.
+I am a postdoctoral researcher at Smith-Kettlewell Eye Research Institute, working with [Dr. James Coughlan](https://www.ski.org/users/james-coughlan).
 My research interest is about addressing the real-world problems using human-computer interaction and machine learning techniques. 
 I build machine learning applications and investigate interactions between a user and the application using quantitative and qualitative analysis.
 In my recent projects, I explored the challenges of identifying errors from speech recognizer and 
 conducted user studies to facilitate machine teaching with a teachable object recognizer for non-experts.
+
+<!-- 
+PhD candidate in [Computer Science Department](http://cs.umd.edu/) at [University of Maryland, College Park](http://www.umd.edu), 
+working with Professor [Hernisa Kacorri](https://terpconnect.umd.edu/~hernisa/). I am a member of [Intelligent Assistive Machines lab](https://iam.umd.edu/), 
+[HCIL](http://hcil.umd.edu), and [TRACE center](https://trace.umd.edu/) at UMD.
+ -->
 
 <!-- <b> I am planning to graduate by February 2021 and I am looking for research positions in academia and industry. </b>  -->
 

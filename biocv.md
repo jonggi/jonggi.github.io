@@ -9,19 +9,26 @@ author_profile: true
 classes: wide
 ---
 
-Jonggi Hong is currently enrolled in the [Computer Science PhD program](http://cs.umd.edu) at [University of Maryland, College Park (UMD)](http://umd.edu). 
+Jonggi Hong is a postdoctoral researcher at [Smith-Kettlewell Eye Research Institute](https://www.ski.org/), working with [Dr. James Coughlan](https://www.ski.org/users/james-coughlan). His research interest lies at the intersection of human-computer interaction, machine learning, and accessibility. 
+He received his Ph.D. in [computer science](http://cs.umd.edu) in 2021 from [University of Maryland, College Park (UMD)](http://umd.edu). 
 He obtained his bachelor and master degrees in Computer Science from [Korea Advanced Institute of Science and Technology (KAIST)](http://www.kaist.ac.kr). 
-His current research focuses on human-computer interaction, machine learning, and accessibility. 
-He is a research assistant at the Intelligent Assistive Machines lab at UMD under the supervision of the Assistant Professor [Hernisa Kacorri](https://terpconnect.umd.edu/~hernisa/).
+
+
 
 Find out more about me in my [C.V. (academic resume)](../CV_JonggiHong.pdf).
 
 # Professional Experience
 
+**Postdoctoral Fellow**<br>
+Coughlan Lab <br>
+Smith-Kettlewell Eye Research Institute, San Francisco, CA, USA<br>
+Nov, 2021 – Current<br>
+*Mentor: James Coughlan*
+
 **Research Assistant**<br>
 Intelligent Assistive Machines Lab <br>
 University of Maryland, College Park, MD, USA<br>
-Sep, 2017 – Present<br>
+Sep, 2017 – Sept, 2021<br>
 *Advisor: Hernisa Kaccori*
 
 **Research Intern**<br>
@@ -76,6 +83,9 @@ Dept. of Computer Science, KAIST, Daejeon, South Korea<br>
 Fall 2012
 
 # Awards
+
+**HCIL Maryland Way Award for Research Excellence**<br>
+University of Maryland, College Park, May 2021
 
 **[Goldhabor Travel Grant](https://gradschool.umd.edu/funding/student-fellowships-awards/graduate-school-travel-grants)**<br>
 University of Maryland, College Park, May 2018
