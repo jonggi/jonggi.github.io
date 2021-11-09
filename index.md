@@ -87,8 +87,12 @@ The overarching theme of my research is designing and evaluating accessible inte
     <div>
         <a href="https://iam.umd.edu/" class="author" ><img src="/images/UMD.jpg" alt="University of Maryland, College Park" align="left"/></a>
         <a href="https://iam.umd.edu/">Intelligent Assistive Machines Lab</a>, UMD
-        Advisor: <a href="https://faculty.washington.edu/leahkf/">Leah Findlater</a>,
-        <a href="https://terpconnect.umd.edu/~hernisa/">Hernisa Kacorri</a> 
+        Advisor: <a href="https://terpconnect.umd.edu/~hernisa/">Hernisa Kacorri</a> 
+    </div>
+    <div>
+        <a href="https://iam.umd.edu/" class="author" ><img src="/images/UMD.jpg" alt="University of Maryland, College Park" align="left"/></a>
+        Inclusive Design Lab, UMD
+        Advisor: <a href="https://faculty.washington.edu/leahkf/">Leah Findlater</a>
     </div>
     <div><br><br><br></div>
         
@@ -125,6 +129,9 @@ The overarching theme of my research is designing and evaluating accessible inte
 
 
 ## [Recent publications]({{ site.baseurl }}{% link publications.md %})
+
+[How Content Authored by People with Dementia Affects Attitudes towards Dementia](/papers/CSCW2021_Dementia_Diaries.pdf)<br>
+Amanda Lazar, Robin N. Brewer, Hernisa Kacorri, **Jonggi Hong**, Mary Nicole Dugay Punzalan, Maisarah Mahathir, Olivia K. Richards, Warren Ross III. CSCW 2021.
 
 [Reviewing Speech Input with Audio: Differences between Blind and Sighted Users](/papers/TACCESS2020-speech.pdf)<br>
 **Jonggi Hong**, Christine Vaing, Hernisa Kacorri, Leah Findlater. TACCESS 2020.
