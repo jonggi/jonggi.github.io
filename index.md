@@ -94,7 +94,7 @@ The overarching theme of my research is designing and evaluating accessible inte
         Inclusive Design Lab, UMD
         Advisor: <a href="https://faculty.washington.edu/leahkf/">Leah Findlater</a>
     </div>
-    <div><br><br><br></div>
+    <div><br></div>
         
 </article>
 
