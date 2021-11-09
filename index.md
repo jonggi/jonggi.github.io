@@ -91,7 +91,7 @@ The overarching theme of my research is designing and evaluating accessible inte
     </div>
     <div>
         <a href="https://iam.umd.edu/" class="author" ><img src="/images/UMD.jpg" alt="University of Maryland, College Park" align="left"/></a>
-        Inclusive Design Lab, UMD
+        Inclusive Design Lab, UMD <br>
         Advisor: <a href="https://faculty.washington.edu/leahkf/">Leah Findlater</a>
     </div>
     <div><br></div>
