@@ -29,7 +29,7 @@ Nov, 2021 – Current<br>
 Intelligent Assistive Machines Lab <br>
 University of Maryland, College Park, MD, USA<br>
 Sep, 2017 – Sept, 2021<br>
-*Advisor: Hernisa Kaccori*
+*Advisor: Hernisa Kacorri*
 
 **Research Intern**<br>
 Future of work community, Ability team <br>
