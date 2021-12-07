@@ -11,7 +11,7 @@ classes: wide
 
 Jonggi Hong is a postdoctoral researcher at [Smith-Kettlewell Eye Research Institute](https://www.ski.org/), working with [Dr. James Coughlan](https://www.ski.org/users/james-coughlan). His research interest lies at the intersection of human-computer interaction, machine learning, and accessibility. 
 He received his Ph.D. in [Computer Science](http://cs.umd.edu) in 2021 from [University of Maryland, College Park (UMD)](http://umd.edu). 
-He obtained his bachelor and master degrees in [Computer Science](https://cs.kaist.ac.kr/) from [Korea Advanced Institute of Science and Technology (KAIST)](http://www.kaist.ac.kr). 
+He obtained his bachelor's and master's degrees in [Computer Science](https://cs.kaist.ac.kr/) from [Korea Advanced Institute of Science and Technology (KAIST)](http://www.kaist.ac.kr). 
 
 
 
