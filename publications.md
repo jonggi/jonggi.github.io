@@ -25,14 +25,14 @@ $(function(){
 In Proc. SIGCHI Conference on Human Factors in Computing Systems (CHI 2020)<br>
 [[Local]](/.) 
 [[Official]]() 
-<a class="hong2022blind">[BibTex]</a>
+<a class="hong2022blind_open">[BibTex]</a>
 
 [From the Lab to People’s Home: Lessons from Accessing Blind Participants’ Interactions via Smart Glasses in Remote Studies](/.)<br>
 Kyungjun Lee, **Jonggi Hong (co-first author)**, , Ebrima Jarjue, Ernest Essuah Mensah, Hernisa Kacorri<br>
 In Proc. International Web for All Conference (W4A 2022)<br>
 [[Local]](/.) 
 [[Official]](https://dl.acm.org/doi/abs/10.1145/3493612.3520448) 
-<a class="hong2022fromthelab">[BibTex]</a>
+<a class="hong2022fromthelab_open">[BibTex]</a>
 
 [Crowdsourcing the Perception of Machine Teaching](/papers/CHI2020-CrowdTeaMa.pdf)<br>
 **Jonggi Hong**, Kyungjun Lee, June Xu, Hernisa Kacorri<br>
