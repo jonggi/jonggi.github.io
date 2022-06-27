@@ -22,10 +22,11 @@ $(function(){
 
 [Blind Users Accessing Their Training Images in Teachable Object Recognizers](/.)<br>
 **Jonggi Hong**, Jaina Gandhi, Ernest Essuah Mensah, Farnaz Zeraati, Ebrima Jarjue, Kyungjun Lee, Hernisa Kacorri <br>
-In Proc. SIGCHI Conference on Human Factors in Computing Systems (CHI 2020)<br>
+In Proc. International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2022)<br>
 [[Local]](/.) 
 [[Official]]() 
-<a class="hong2022blind_open">[BibTex]</a>
+<a class="hong2022blind_open">[BibTex]</a> <!-- Don't forget to add '_open' at the end of class name -->
+
 
 [From the Lab to People’s Home: Lessons from Accessing Blind Participants’ Interactions via Smart Glasses in Remote Studies](/.)<br>
 Kyungjun Lee, **Jonggi Hong (co-first author)**, , Ebrima Jarjue, Ernest Essuah Mensah, Hernisa Kacorri<br>
