@@ -20,16 +20,17 @@ $(function(){
 
 ## Conference Papers
 
-[Blind Users Accessing Their Training Images in Teachable Object Recognizers](/.)<br>
+[Blind Users Accessing Their Training Images in Teachable Object Recognizers](/papers/ASSETS2022-Descriptors.pdf)<br>
 **Jonggi Hong**, Jaina Gandhi, Ernest Essuah Mensah, Farnaz Zeraati, Ebrima Jarjue, Kyungjun Lee, Hernisa Kacorri <br>
 In Proc. International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2022)<br>
 [[Local]](/papers/ASSETS2022-Descriptors.pdf) 
 [[Official]]() 
 <a class="hong2022blind_open">[BibTex]</a> <!-- Don't forget to add '_open' at the end of class name -->
+** Best Paper Nominee **
 
 
-[From the Lab to People’s Home: Lessons from Accessing Blind Participants’ Interactions via Smart Glasses in Remote Studies](/.)<br>
-Kyungjun Lee, **Jonggi Hong (co-first author)**, , Ebrima Jarjue, Ernest Essuah Mensah, Hernisa Kacorri<br>
+[From the Lab to People’s Home: Lessons from Accessing Blind Participants’ Interactions via Smart Glasses in Remote Studies](/papers/W4A_Smartglasses.pdf)<br>
+Kyungjun Lee, **Jonggi Hong (co-first author)**, Ebrima Jarjue, Ernest Essuah Mensah, Hernisa Kacorri<br>
 In Proc. International Web for All Conference (W4A 2022)<br>
 [[Local]](/papers/W4A2022-Smartglasses.pdf) 
 [[Official]](https://dl.acm.org/doi/abs/10.1145/3493612.3520448) 
