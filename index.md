@@ -134,8 +134,8 @@ The overarching theme of my research is designing and evaluating accessible inte
 **Jonggi Hong**, Jaina Gandhi, Ernest Essuah Mensah, Farnaz Zeraati, Ebrima Jarjue, Kyungjun Lee, Hernisa Kacorri. ASSETS 2022. <br>
 
 
-[From the Lab to People’s Home: Lessons from Accessing Blind Participants’ Interactions via Smart Glasses in Remote Studies](/papers/W4A_Smartglasses.pdf)<br>
-Kyungjun Lee, **Jonggi Hong (co-first author)**, , Ebrima Jarjue, Ernest Essuah Mensah, Hernisa Kacorri. W4A 2022.<br>
+[From the Lab to People’s Home: Lessons from Accessing Blind Participants’ Interactions via Smart Glasses in Remote Studies](/papers/W4A2022-Smartglasses.pdf)<br>
+Kyungjun Lee, **Jonggi Hong (co-first author)**, Ebrima Jarjue, Ernest Essuah Mensah, Hernisa Kacorri. W4A 2022.<br>
 
 [How Content Authored by People with Dementia Affects Attitudes towards Dementia](/papers/CSCW2021_Dementia_Diaries.pdf)<br>
 Amanda Lazar, Robin N. Brewer, Hernisa Kacorri, **Jonggi Hong**, Mary Nicole Dugay Punzalan, Maisarah Mahathir, Olivia K. Richards, Warren Ross III. CSCW 2021.
