@@ -26,6 +26,9 @@ based on the them when they fine-tune an object recognizer with their own photos
 The descriptors are generated using computer vision techniques such as hand detection, image quality assessment, and SIFT feature extraction/matching.
 
 ### Publications
+[Blind Users Accessing Their Training Images in Teachable Object Recognizers](/papers/ASSETS2022-Descriptors.pdf)<br>
+**Jonggi Hong**, Jaina Gandhi, Ernest Essuah Mensah, Farnaz Zeraati, Ebrima Jarjue, Kyungjun Lee, Hernisa Kacorri. ASSETS 2022.
+
 [Crowdsourcing the Perception of Machine Teaching](/papers/CHI2020-CrowdTeaMa.pdf)<br>
 **Jonggi Hong**, Kyungjun Lee, June Xu, Hernisa Kacorri. CHI 2020.
 
