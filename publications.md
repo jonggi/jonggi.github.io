@@ -26,7 +26,7 @@ In Proc. International ACM SIGACCESS Conference on Computers and Accessibility (
 [[Local]](/papers/ASSETS2022-Descriptors.pdf) 
 [[Official]]() 
 <a class="hong2022blind_open">[BibTex]</a> <!-- Don't forget to add '_open' at the end of class name -->
-** Best Paper Nominee **
+<br><b> Best Paper Nominee </b>
 
 
 [From the Lab to People’s Home: Lessons from Accessing Blind Participants’ Interactions via Smart Glasses in Remote Studies](/papers/W4A2022-Smartglasses.pdf)<br>
