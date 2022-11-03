@@ -17,6 +17,10 @@ I build machine learning applications and investigate interactions between a use
 In my recent projects, I explored the challenges of identifying errors from speech recognizer and 
 conducted user studies to facilitate machine teaching with a teachable object recognizer for non-experts.
 
+** I will join the Department of Computer Science at Stevens Institute of Technology as an assistant professor from January, 2023. 
+I am looking for PhD students who are interested in Human-Computer Interaction, Machine Learning, or Accessibility. 
+Please send an email to me if you are looking for a PhD position! **
+
 <!-- 
 PhD candidate in [Computer Science Department](http://cs.umd.edu/) at [University of Maryland, College Park](http://www.umd.edu), 
 working with Professor [Hernisa Kacorri](https://terpconnect.umd.edu/~hernisa/). I am a member of [Intelligent Assistive Machines lab](https://iam.umd.edu/), 
