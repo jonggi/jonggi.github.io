@@ -36,6 +36,14 @@ In Proc. International Web for All Conference (W4A 2022)<br>
 [[Official]](https://dl.acm.org/doi/abs/10.1145/3493612.3520448) 
 <a class="hong2022fromthelab_open">[BibTex]</a>
 
+[How Content Authored by People with Dementia Affects Attitudes towards Dementia](/papers/CSCW2021_Dementia_Diaries.pdf)<br>
+Amanda Lazar, Robin N. Brewer, Hernisa Kacorri, **Jonggi Hong**, Mary Nicole Dugay Punzalan, Maisarah Mahathir, Olivia K. Richards, Warren Ross III. <br>
+In Proc. of the ACM on Human-computer Interaction (CSCW 2021)<br>
+[[Local]](/papers/CSCW2021_Dementia_Diaries.pdf) 
+[[Official]](https://dl.acm.org/doi/abs/10.1145/3479542) 
+<a class="lazar2021how_open">[BibTex]</a>
+
+
 [Crowdsourcing the Perception of Machine Teaching](/papers/CHI2020-CrowdTeaMa.pdf)<br>
 **Jonggi Hong**, Kyungjun Lee, June Xu, Hernisa Kacorri<br>
 In Proc. SIGCHI Conference on Human Factors in Computing Systems (CHI 2020)<br>
