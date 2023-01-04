@@ -11,23 +11,14 @@ author_profile: true
 <!-- bundle exec jekyll serve -->
 <!-- http://localhost:4000 -->
 
-I am a postdoctoral researcher at [Smith-Kettlewell Eye Research Institute](https://www.ski.org/), working with [Dr. James Coughlan](https://www.ski.org/users/james-coughlan).
+I am an assistant professor in [Computer Science](https://www.stevens.edu/school-engineering-science/departments/computer-science) at [Stevens Institute of Technology](https://www.ski.org/).
 My research interest is about addressing the real-world problems using human-computer interaction and machine learning techniques. 
 I build machine learning applications and investigate interactions between a user and the application using quantitative and qualitative analysis.
 In my recent projects, I explored the challenges of identifying errors from speech recognizer and 
 conducted user studies to facilitate machine teaching with a teachable object recognizer for non-experts.
 
-<b> I will join the Department of Computer Science at Stevens Institute of Technology as an assistant professor in January, 2023. 
-I am looking for PhD students who are interested in Human-Computer Interaction, Machine Learning, or Accessibility. 
+<b> I am looking for PhD students who are interested in Human-Computer Interaction, Machine Learning, or Accessibility. 
 Please send an email to me.</b>
-
-<!-- 
-PhD candidate in [Computer Science Department](http://cs.umd.edu/) at [University of Maryland, College Park](http://www.umd.edu), 
-working with Professor [Hernisa Kacorri](https://terpconnect.umd.edu/~hernisa/). I am a member of [Intelligent Assistive Machines lab](https://iam.umd.edu/), 
-[HCIL](http://hcil.umd.edu), and [TRACE center](https://trace.umd.edu/) at UMD.
- -->
-
-<!-- <b> I am planning to graduate by February 2021 and I am looking for research positions in academia and industry. </b>  -->
 
 <!-- ![intro_image](/images/symposium.png){:class="img-responsive"} -->
 <!-- <img src="/images/Jonggi_presentation.png" width="100%"> -->
