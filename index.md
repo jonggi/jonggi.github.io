@@ -11,7 +11,7 @@ author_profile: true
 <!-- bundle exec jekyll serve -->
 <!-- http://localhost:4000 -->
 
-I am an assistant professor in [Computer Science](https://www.stevens.edu/school-engineering-science/departments/computer-science) at [Stevens Institute of Technology](https://www.ski.org/).
+I am an assistant professor in [Computer Science](https://www.stevens.edu/school-engineering-science/departments/computer-science) at [Stevens Institute of Technology](https://www.stevens.edu).
 My research interest is about addressing the real-world problems using human-computer interaction and machine learning techniques. 
 I build machine learning applications and investigate interactions between a user and the application using quantitative and qualitative analysis.
 In my recent projects, I explored the challenges of identifying errors from speech recognizer and 
