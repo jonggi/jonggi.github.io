@@ -147,4 +147,4 @@ Kyungjun Lee, **Jonggi Hong**, Ebrima Jarjue, Simone Pimento, Hernisa Kacorri. A
 [Identifying Speech Input Errors Through Audio-Only Interaction](/papers/CHI2018-DictationErrorsAudioOnly.pdf)<br>
 **Jonggi Hong**, Leah Findlater. CHI 2018.
 
-(Updated on March 8, 2023)
+Updated on March 8, 2023
