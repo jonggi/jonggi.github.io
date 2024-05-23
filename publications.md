@@ -20,9 +20,9 @@ $(function(){
 
 ## Conference Papers
 
-[Blind Users Accessing Their Training Images in Teachable Object Recognizers](/papers/ASSETS2022-Descriptors.pdf)<br>
-**Jonggi Hong**, Jaina Gandhi, Ernest Essuah Mensah, Farnaz Zeraati, Ebrima Jarjue, Kyungjun Lee, Hernisa Kacorri <br>
-In Proc. International ACM SIGACCESS Conference on Computers and Accessibility (W4A 2024)<br>
+[EnhancingWalk-Light Detector Usage for the Visually Impaired: A Comparison of VR Exploration and Verbal Instructions](/papers/W4A2024_VRTraining.pdf)<br>
+**Jonggi Hong**, James Coughlan <br>
+In Proc. International Web for All Conference (W4A 2024)<br>
 [[Local]](/papers/W4A2024_VRTraining.pdf) 
 [[Official]]() 
 <a class="">[BibTex]</a> <!-- Don't forget to add '_open' at the end of class name -->
