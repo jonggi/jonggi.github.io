@@ -125,9 +125,11 @@ The overarching theme of my research is designing and evaluating accessible inte
 
 ## [Recent publications]({{ site.baseurl }}{% link publications.md %})
 
+[EnhancingWalk-Light Detector Usage for the Visually Impaired: A Comparison of VR Exploration and Verbal Instructions](/papers/W4A2024_VRTraining.pdf)<br>
+**Jonggi Hong**, James Coughlan. W4A 2024 <br>
+
 [Blind Users Accessing Their Training Images in Teachable Object Recognizers](/papers/ASSETS2022-Descriptors.pdf)<br>
 **Jonggi Hong**, Jaina Gandhi, Ernest Essuah Mensah, Farnaz Zeraati, Ebrima Jarjue, Kyungjun Lee, Hernisa Kacorri. ASSETS 2022. <br>
-
 
 [From the Lab to People’s Home: Lessons from Accessing Blind Participants’ Interactions via Smart Glasses in Remote Studies](/papers/W4A2022-Smartglasses.pdf)<br>
 Kyungjun Lee, **Jonggi Hong (co-first author)**, Ebrima Jarjue, Ernest Essuah Mensah, Hernisa Kacorri. W4A 2022.<br>
@@ -139,12 +141,5 @@ Amanda Lazar, Robin N. Brewer, Hernisa Kacorri, **Jonggi Hong**, Mary Nicole Dug
 **Jonggi Hong**, Christine Vaing, Hernisa Kacorri, Leah Findlater. TACCESS 2020.
 
 [Crowdsourcing the Perception of Machine Teaching](/papers/CHI2020-CrowdTeaMa.pdf)<br>
-**Jonggi Hong**, Kyungjun Lee, June Xu, Hernisa Kacorri. CHI 2020.
 
-[Revisiting Blind Photography in the Context of Teachable Object Recognizers](/papers/ASSETS2019-Revisiting.pdf)<br>
-Kyungjun Lee, **Jonggi Hong**, Ebrima Jarjue, Simone Pimento, Hernisa Kacorri. ASSETS 2019
-
-[Identifying Speech Input Errors Through Audio-Only Interaction](/papers/CHI2018-DictationErrorsAudioOnly.pdf)<br>
-**Jonggi Hong**, Leah Findlater. CHI 2018.
-
-(Updated on March 8, 2023)
+(Updated on May 24, 2024)
