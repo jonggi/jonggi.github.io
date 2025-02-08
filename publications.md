@@ -25,8 +25,8 @@ $(function(){
 In Proc. International ACM SIGACCESS Conference on Computers and Accessibility (ASSETS 2024)<br>
 [[Local]](/papers/ASSETS2024_ObjRecErrors.pdf) 
 [[Official]](https://dl.acm.org/doi/abs/10.1145/3663548.3675635?casa_token=B88UZNA-1BUAAAAA:QZ762NsMbNX_rrTae5ntwtoKlVQY4d1ja6PKUMjRkNU3Ryb0LpQl1UzZY2VDNtv_JqqE2usneCs1TQ) 
-<a class="hong2024how_open">[BibTex]</a> <!-- Don't forget to add '_open' at the end of class name -->
-<br><b> Best Paper Nominee </b>
+<a class="hong2024Understanding_open">[BibTex]</a> <!-- Don't forget to add '_open' at the end of class name -->
+
 
 [Enhancing Walk-Light Detector Usage for the Visually Impaired: A Comparison of VR Exploration and Verbal Instructions](/papers/W4A2024_VRTraining.pdf)<br>
 **Jonggi Hong**, James Coughlan <br>
@@ -34,7 +34,7 @@ In Proc. International Web for All Conference (W4A 2024)<br>
 [[Local]](/papers/W4A2024_VRTraining.pdf) 
 [[Official]]() 
 <a class="hong2024enhancing_open">[BibTex]</a> <!-- Don't forget to add '_open' at the end of class name -->
-<br><b> Best Paper Nominee </b>
+
 
 [Blind Users Accessing Their Training Images in Teachable Object Recognizers](/papers/ASSETS2022-Descriptors.pdf)<br>
 **Jonggi Hong**, Jaina Gandhi, Ernest Essuah Mensah, Farnaz Zeraati, Ebrima Jarjue, Kyungjun Lee, Hernisa Kacorri <br>
