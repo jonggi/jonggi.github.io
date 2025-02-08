@@ -17,8 +17,8 @@ I build machine learning applications and investigate interactions between a use
 In my recent projects, I explored the challenges of identifying errors from speech recognizer and 
 conducted user studies to facilitate machine teaching with a teachable object recognizer for non-experts.
 
-<b> I am looking for PhD students who are interested in Human-Computer Interaction, Machine Learning, or Accessibility. 
-Please send an email to me.</b>
+<!-- <b> I am looking for PhD students who are interested in Human-Computer Interaction, Machine Learning, or Accessibility. 
+Please send an email to me.</b> -->
 
 <!-- ![intro_image](/images/symposium.png){:class="img-responsive"} -->
 <!-- <img src="/images/Jonggi_presentation.png" width="100%"> -->
@@ -123,7 +123,7 @@ The overarching theme of my research is designing and evaluating accessible inte
 
 
 
-## [Recent publications]({{ site.baseurl }}{% link publications.md %})
+<!-- ## [Recent publications]({{ site.baseurl }}{% link publications.md %})
 
 [EnhancingWalk-Light Detector Usage for the Visually Impaired: A Comparison of VR Exploration and Verbal Instructions](/papers/W4A2024_VRTraining.pdf)<br>
 **Jonggi Hong**, James Coughlan. W4A 2024 <br>
@@ -142,4 +142,4 @@ Amanda Lazar, Robin N. Brewer, Hernisa Kacorri, **Jonggi Hong**, Mary Nicole Dug
 
 [Crowdsourcing the Perception of Machine Teaching](/papers/CHI2020-CrowdTeaMa.pdf)<br>
 
-(Updated on May 24, 2024)
+(Updated on May 24, 2024) -->
