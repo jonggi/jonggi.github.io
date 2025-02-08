@@ -3,7 +3,6 @@
 how to add a publication
  1) Add a section with bibtex
  2) Add a javascript code for the bibtex at the end of this file
- 3) Done
 
 Reference: https://dev.vast.com/jquery-popup-overlay/
  -->
@@ -23,9 +22,35 @@ Reference: https://dev.vast.com/jquery-popup-overlay/
 }
 </style>
 
+
+<section id="hong2024enhancing">
+<pre>
+@inproceedings{hong2024enhancing,
+    title={Enhancing Walk-Light Detector Usage for the Visually Impaired: A Comparison of VR Exploration and Verbal Instructions},
+    author={Hong, Jonggi and Coughlan, James},
+    booktitle={Proceedings of the 21st International Web for All Conference},
+    pages={139--149},
+    year={2024}
+    }
+</pre>
+</section>
+
+
+<section id="hong2024understanding">
+<pre>
+@inproceedings{hong2024understanding,
+    title={Understanding How Blind Users Handle Object Recognition Errors: Strategies and Challenges},
+    author={Hong, Jonggi and Kacorri, Hernisa},
+    booktitle={Proceedings of the 26th International ACM SIGACCESS Conference on Computers and Accessibility},
+    pages={1--15},
+    year={2024}
+    }
+</pre>
+</section>
+
 <section id="lazar2021how">
 <pre>
-@article{lazar2021how_open,
+@article{lazar2021how,
 	author = {Lazar, Amanda and Brewer, Robin N. and Kacorri, Hernisa and Hong, Jonggi and Punzalan, Mary Nicole Dugay and Mahathir, Maisarah and Vander Hyde, Olivia and Ross III, Warren},
 	title = {How Content Authored by People with Dementia Affects Attitudes towards Dementia},
 	year = {2021},
@@ -399,7 +424,8 @@ Reference: https://dev.vast.com/jquery-popup-overlay/
 -->
 
 <script>
-$('#lazar2021how').popup();
+$('#hong2024enhancing').popup();
+$('#hong2024understanding').popup();
 $('#hong2022fromthelab').popup();
 $('#hong2020crowdsourcing').popup();
 $('#lee2019revisiting').popup();
